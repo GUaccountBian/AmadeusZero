@@ -7,9 +7,13 @@ Our team will develop an intelligent chatbot that converts user speech into text
 ## Project Requirements:
 
 **Speech-to-Text Functionality**: Convert user speech input into written text.
+
 **GPT API Interaction**: Send the written text to the GPT API to generate a response and analyze the sentiment.
+
 **Text-to-Speech Functionality**: Convert the generated text response into spoken output. The tone of the speech should reflect the sentiment analysis result.
+
 **Deployment**: Ensure the chatbot is deployable on both PC and smartphone platforms.
+
 **Future Update Consideration**: Design the chatbot to be adaptable for future features, such as accessing the internet for real-time information.
 
 ## Feasibility and Level of Hardness:
