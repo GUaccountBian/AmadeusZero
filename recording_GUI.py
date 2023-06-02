@@ -5,7 +5,7 @@ import threading
 import numpy as np
 
 class Recorder:
-    def __init__(self, fs=44100, max_duration=120):
+    def __init__(self, max_duration=120, fs=44100):
         self.fs = fs  # Sample rate
         self.max_duration = max_duration  # Maximum recording duration in seconds
         self.recording = False
